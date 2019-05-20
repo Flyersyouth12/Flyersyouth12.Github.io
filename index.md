@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-HEllo this is my first website design using github.io pages
+Hello this is my first website design using github.io pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
